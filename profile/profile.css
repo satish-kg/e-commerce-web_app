@@ -145,6 +145,7 @@
    height: 55px;
    padding: 10px;
    color: black;
+   /* border-radius: 25px; */
  }
 
  #signup {
@@ -156,4 +157,9 @@
    width: 180px;
    height: 40px;
 
+ }
+
+ button{
+  /* border-radius: 25px; */
+  cursor: pointer;
  }

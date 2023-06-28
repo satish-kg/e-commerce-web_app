@@ -66,21 +66,22 @@ nav .brand {
     font-size: 25px;
   }
  .btn{
-outline: none;
-background-color: black;
-color: white;
-width: 180px;
-height: 40px;
-font-size: 16px;
-
- }
+    outline: none;
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 40px;
+    font-size: 16px;
+    /* border-radius: 25px; */
+  }
  .butn{
     border:1px solid black;
     outline: none;
     width: 180px;
-height: 40px;
-font-size: 16px;
- }
+    height: 40px;
+    font-size: 16px;
+    /* border-radius: 25px; */
+  }
  .image img{
   margin-top: -30px;
    height: auto;
@@ -102,6 +103,7 @@ input{
     height: 50px;
    padding: 10px;
    color: black;
+   /* border-radius: 25px; */
 }
 #Login{
     border:1px solid black;
@@ -115,3 +117,7 @@ input{
 .login-container{
     box-sizing: border-box;
     padding: 60px;}
+  #Login{
+    /* border-radius: 25px; */
+    cursor: pointer;
+  }

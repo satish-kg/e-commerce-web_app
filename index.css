@@ -73,6 +73,7 @@ nav .nav-items a {
   width: 180px;
   height: 40px;
   font-size: 16px;
+  /* border-radius: 25px; */
 }
 
 .butn {
@@ -81,6 +82,7 @@ nav .nav-items a {
   width: 180px;
   height: 40px;
   font-size: 16px;
+  /* border-radius: 25px; */
 }
 
 .image img {

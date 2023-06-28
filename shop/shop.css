@@ -224,8 +224,12 @@ main-content .items .item .circle {
 
 .container:hover {
   box-shadow: 0 8px 24px 0 rgba(0, 0, 0, 0.2);
+  transform: scale(1.1);
 }
 
+img:hover{
+  transform: scale(1.05);
+}
 
 .container {
   display: flex;
@@ -238,7 +242,7 @@ main-content .items .item .circle {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
   overflow: hidden;
   width: auto;
-
+  /* border-radius: 25px; */
 
 }
 
@@ -315,4 +319,16 @@ object-fit: cover;
   .products {
     display: block;
   }
+}
+
+.filter{
+  border-radius: 25px;
+}
+
+input[type = "text"]{
+  /* border-radius: 25px; */
+}
+
+#add-to-cart{
+  /* border-radius: 25px; */
 }
