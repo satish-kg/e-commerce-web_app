@@ -14,38 +14,35 @@ Checkout functionality of my cart - after razorpay.open() delete myCart items an
 Profile page - show data taken using signup and allow user to edit it.
 
 Home Page
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/22e32327-7d2b-4d85-a622-d5d602e04cf5)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/8e78677d-e8a0-4a54-b81f-0dc7eadd7f3e)
 
 Sign-Up Page
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/037027c1-7e65-4897-8e94-436d0d66b404)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/03fbb26b-1879-432e-bf21-21840a34f72e)
 
 Log-In Page
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/fe9936b6-e873-4e03-a6fe-32488d1b033f)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/02deffd0-9760-4f96-9acb-3f324badfab8)
 
 Shopping Page after login
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/efd730c0-6518-48e9-b9fa-7278116d8adb)
-
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/959e187e-4406-4fb7-b6c6-13d95e39e726)
 
 Women's Products
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/fa470e01-fada-4570-91d0-59910d96209a)
-
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/69428337-372e-497f-8792-3623fb04b963)
 
 Jwelery Products
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/a2303323-0bf4-4305-89a1-e16b3470fc7a)
-
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/7eaf5dbc-cae6-4528-9dce-c009a8588d26)
 
 Electronics Products
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/aca9b50f-ffb4-46e7-8959-57d14ef9c29f)
-
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/9b4f78ee-468c-4e5b-a1f3-b0f54d9efaa8)
 
 Add to Cart Page
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/54e802d5-e5ff-4264-90f2-a6ee6a997994)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/47b9c0d1-5da9-4f75-bb46-8b03194e808e)
 
 Checkout & Payment Page (beta)
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/a498a7d9-e96f-4dd6-90fc-a6cfd386d836)
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/f054b2cc-5483-44eb-bbb9-d5387e32d048)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/b03ddc70-7c3a-4255-a59b-f4e37de343cc)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/cdf8ebb9-825c-4f36-a3c1-6924f0b52a76)
 
 Profile Page you can change your information
-![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/215905fb-afb6-47e2-b38b-fe9e244504fc)
+![image](https://github.com/satish-kg/e-commerce-web_app/assets/80269402/6e396b81-6c1a-41dc-8fb2-8b7cd38f7417)
+
 
 
